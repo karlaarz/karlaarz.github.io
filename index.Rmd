@@ -17,6 +17,6 @@ output:
   postcards::onofre
 ---
 
-PhD candidate focused on genomics, transcriptomics and bioinformatics in the neuroscience field. Amateur photographer
+PhD candidate interested in genomics, transcriptomics and bioinformatics in the neuroscientific field. Amateur photographer
 
 
