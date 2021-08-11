@@ -1,16 +1,10 @@
 ---
 title: "Karla Ruiz"
-#image: "herzl.jpg"
+image: "herzl.jpg"
 color1: "#5A59A3"
 color2: "#C66060"
 angle: 130
 links:
-  - label: Facebook
-    url: "https://facebook.com/"
-  - label: LinkedIn
-    url: "https://linkedin.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
   - label: Email
     url: "mailto:karla.ruizce30@gmail.com"
 output:
