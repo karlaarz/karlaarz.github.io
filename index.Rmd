@@ -16,8 +16,6 @@ links:
 output:
   postcards::onofre
 ---
- 
-#### Bio 
 
 PhD candidate focused on genomics, transcriptomics and bioinformatics in the neuroscience field. Amateur photographer
 
