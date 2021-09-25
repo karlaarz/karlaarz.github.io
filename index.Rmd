@@ -1,6 +1,6 @@
 ---
 title: "Karla Ruiz"
-image: "herzl.jpg"
+image: "karla.png"
 color1: "#5A59A3"
 color2: "#C66060"
 angle: 130
