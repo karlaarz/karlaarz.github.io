@@ -7,10 +7,18 @@ angle: 130
 links:
   - label: Email
     url: "mailto:karla.ruizce30@gmail.com"
+  - label: LinkedIn
+    url: "www.linkedin.com/in/karlaarz/"
+  - label: Twitter
+    url: "www.twitter.com/karlaarz"
+  - label: Instagram
+    url: "www.instagram.com/karlaarz_"
 output:
   postcards::onofre
 ---
 
-PhD candidate interested in genomics, transcriptomics and bioinformatics in the neuroscientific field. Amateur photographer
+PhD candidate at TIGEM, Italy / ITN StarT Early Stage Researcher. 
+Interested in genomics, transcriptomics and bioinformatics in the eye and neuroscientific field.
+Amateur photographer
 
 
