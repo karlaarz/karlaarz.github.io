@@ -8,11 +8,11 @@ links:
   - label: Email
     url: "mailto:karla.ruizce30@gmail.com"
   - label: LinkedIn
-    url: "www.linkedin.com/in/karlaarz/"
+    url: "https://www.linkedin.com/in/karlaarz/"
   - label: Twitter
-    url: "www.twitter.com/karlaarz"
+    url: "https://www.twitter.com/karlaarz"
   - label: Instagram
-    url: "www.instagram.com/karlaarz_"
+    url: "https://www.instagram.com/karlaarz_"
 output:
   postcards::onofre
 ---
